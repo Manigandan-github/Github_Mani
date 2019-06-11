@@ -1,3 +1,4 @@
 This is the test file created on the GitHub.
 This is the second line of this file
 This is the third line
+This is the fourth line
